@@ -46,6 +46,15 @@ main {
 	height: 70vh;
 }
 
+article {
+	margin: 15px;
+}
+
+ul {
+	padding-top: 5px;
+	padding-left: 20px;
+}
+
 footer {
 	height: 12vh;
 	background-color: black;
